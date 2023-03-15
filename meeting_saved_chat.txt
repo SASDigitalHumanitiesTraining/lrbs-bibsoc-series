@@ -1,0 +1,92 @@
+17:06:15 From Christopher Ohge to Everyone:
+	Slides for today: https://docs.google.com/presentation/d/1NypZrv769SVpr9pSt6JYlMnugtX5KQDxOMS1jgqh5pw/edit?usp=sharing
+17:12:33 From Michael Wasserman to Everyone:
+	It's almost done.
+17:25:46 From Michael Wasserman to Everyone:
+	Windows now has PowerShell which aliases commands with a lot of unix-y names
+17:26:42 From Giles Bergel to Everyone:
+	Reacted to "Windows now has Powe..." with 👍
+17:55:37 From Giles Bergel to Everyone:
+	https://github.com/livesandletters/aor
+17:55:40 From Christopher Ohge to Everyone:
+	https://archaeologyofreading.org/aor-data/
+17:56:55 From Michael Wasserman to Everyone:
+	Reacted to "https://github.com/l..." with 👍
+17:58:48 From James MacKenzie to Everyone:
+	"Head First Git" (Gandhi) from Oreilly is a really helpful (and thorough) intro to git / GitHub.
+17:58:56 From Giles Bergel to Everyone:
+	Reacted to ""Head First Git" (Ga..." with 👍
+17:59:37 From Andrew McAinsh to Everyone:
+	Reacted to ""Head First Git" (Ga..." with 👍
+18:01:50 From Giles Bergel to Everyone:
+	Lots of cataloguing systems use regular expressions in ways like “find me every record that does *not* contain any data in a field”.
+18:06:27 From David Macfarlane to Everyone:
+	g/re/p command in ed
+18:15:28 From Laurette Godinas to Everyone:
+	I am trying to access the PORT :)
+18:15:45 From Giles Bergel to Everyone:
+	https://port.sas.ac.uk/course/view.php?id=250
+18:18:05 From Giles Bergel to Everyone:
+	Can everyone access PORT?
+18:18:19 From Laurette Godinas to Everyone:
+	Yes, thanks a lot!
+18:18:24 From Giles Bergel to Everyone:
+	Reacted to "Yes, thanks a lot!" with 👍
+18:18:24 From Michael Wasserman to Everyone:
+	I was able to get in shortly before the session began.
+18:18:36 From Giles Bergel to Everyone:
+	Reacted to "I was able to get in..." with 👍
+18:18:39 From David Macfarlane to Everyone:
+	Yes, PORT is working now - thanks!
+18:18:45 From Barbara Bienias to Everyone:
+	Data loaded
+18:18:58 From Michael Wasserman to Everyone:
+	My data is loaded as well.
+18:21:05 From Giles Bergel to Christopher Ohge(Direct Message):
+	10 mins left (going great - just a heads up)
+18:22:23 From Sarah Cusk to Everyone:
+	Yes!
+18:22:28 From Heather Wolfe (she/her) to Everyone:
+	yes
+18:22:33 From David Macfarlane to Everyone:
+	Yes bar chart and linear dendogram.
+18:22:36 From Sarah Cusk to Everyone:
+	Yes!
+18:22:53 From David Macfarlane to Everyone:
+	Easy to generate and helpful.
+18:23:30 From David Macfarlane to Everyone:
+	The only problem is that you have to upload your data to their server, so you lose control of your data.
+18:23:53 From David Macfarlane to Everyone:
+	Refine allows the data to stay on your own system.
+18:24:24 From Laurette Godinas to Everyone:
+	My csv files opened with Numbers since I use Mac, is it a problem?
+18:24:55 From Michael Wasserman to Everyone:
+	It seems to be doing some work locally.
+18:26:23 From Giles Bergel to Everyone:
+	As it’s open-source you could theoretically build and mount your own instance locally
+18:30:34 From Giles Bergel to Christopher Ohge(Direct Message):
+	We’re now at time, Chris. Maybe wrap up in 2 mins?
+18:31:55 From Giles Bergel to Everyone:
+	Open Refine also has great tools for reconciling data against authorities like Wikidata
+18:33:13 From Barbara Bienias to Everyone:
+	Thank you!
+18:33:28 From Heather Wolfe (she/her) to Everyone:
+	Thank you, so useful!
+18:33:35 From James MacKenzie to Everyone:
+	Thank you!
+18:33:35 From David Macfarlane to Everyone:
+	Terrific - thank you!
+18:33:41 From David Stoker to Everyone:
+	Thanks
+18:33:41 From Sarah Cusk to Everyone:
+	Thank you!
+18:33:42 From Alexandra Plane to Everyone:
+	Thank you!
+18:33:43 From Michael Wasserman to Everyone:
+	Thanks!
+18:33:44 From Laurette Godinas to Everyone:
+	Thanks a lot for this very useful session!
+18:33:45 From Peter Kidd to Everyone:
+	Thanks very much :-)
+18:33:49 From Andrew McAinsh to Everyone:
+	Thank you - very useful!
